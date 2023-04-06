@@ -11,7 +11,6 @@ document.getElementById("btn1").addEventListener('click',function(){
         const text = document.createElement("li");
         text.style.paddingRight = "10%";
         text.innerHTML = title;
-    
         
         // Create a new text node
 
