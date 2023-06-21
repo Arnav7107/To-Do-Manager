@@ -13,7 +13,6 @@ document.getElementById("btn1").addEventListener('click',function(){
         text.innerHTML = title;
         
         // Create a new text node
-
         // const text = document.createTextNode(title);
         // text.style[paddingRight] = "20%";
         // text.setAttribute("style", "padding-left: 20%");
